@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973557575256",
+    "project_id": "navigate-app-466bd",
+    "storage_bucket": "navigate-app-466bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973557575256:android:31d23ff2087d70e970242d",
+        "android_client_info": {
+          "package_name": "com.example.navigate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973557575256-s2ra7bsl9vpq8dut17umfh9ejgeb8dic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNQAn2NLm2kpqMT3VEoganVjaI5A_R0n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973557575256-s2ra7bsl9vpq8dut17umfh9ejgeb8dic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

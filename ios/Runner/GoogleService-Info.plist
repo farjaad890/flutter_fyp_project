@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>973557575256-o7dbig1efdi1305ktfr0mi6ij2c8sj6l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.973557575256-o7dbig1efdi1305ktfr0mi6ij2c8sj6l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1PmdhF82DNPP0gqvzqWFtaJ0_kpgRLGw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>973557575256</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.navigate</string>
+	<key>PROJECT_ID</key>
+	<string>navigate-app-466bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>navigate-app-466bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:973557575256:ios:dca439f19672f46670242d</string>
+</dict>
+</plist>
